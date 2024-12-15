@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Improvizaciya.ApiService.props" />
+</Project>

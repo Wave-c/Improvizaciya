@@ -1,0 +1,12 @@
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/bin/Debug/net9.0/Improvizaciya.ServiceDefaults.deps.json
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/bin/Debug/net9.0/Improvizaciya.ServiceDefaults.dll
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/bin/Debug/net9.0/Improvizaciya.ServiceDefaults.pdb
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/Improvizaciya.ServiceDefaults.csproj.AssemblyReference.cache
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/Improvizaciya.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/Improvizaciya.ServiceDefaults.AssemblyInfoInputs.cache
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/Improvizaciya.ServiceDefaults.AssemblyInfo.cs
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/Improvizaciya.ServiceDefaults.csproj.CoreCompileInputs.cache
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/Improvizaciya.ServiceDefaults.dll
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/refint/Improvizaciya.ServiceDefaults.dll
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/Improvizaciya.ServiceDefaults.pdb
+/home/wave/repos/Improvizaciya/Improvizaciya.ServiceDefaults/obj/Debug/net9.0/ref/Improvizaciya.ServiceDefaults.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Improvizaciya.ApiService.props" />
+</Project>
